@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
         NavigationUI.setupWithNavController(navView, navController);
 
         String reza = "fershteh";
+        String love = "love";
     }
 
 }
